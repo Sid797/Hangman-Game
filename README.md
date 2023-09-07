@@ -1,9 +1,15 @@
-## Hangman Game
 
+## Screenshots
+
+![Screenshot 2023-09-07 at 12-49-00 Hangman-game](https://github.com/Sid797/Hangman-Game/assets/121742181/1d5a7aff-b32a-4562-8271-9e7fb739e64c)
+
+
+## Hangman Game
+A simple and fun game of HANGMAN made using React.
 
 ## How To Play The Game
 
-Select a letter to figure out a hidden word in a set amount of chances
+Figure out what the word is by typing letters and if you get the letter wrong 6 times you lose!
 
 ## Project Specifications
 
